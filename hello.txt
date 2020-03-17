@@ -1,3 +1,4 @@
 hello, every one!
 
 special greeting to my dear lover!
+git mergetool
