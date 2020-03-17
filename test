@@ -1,4 +1,4 @@
 test
-test again1 in master
+test again resolve
 git difftool
-git difftool in master
+git difftool in master but resolve
