@@ -1,4 +1,5 @@
 hello, every one!
-
+add in master
 special greeting to my dear lover!
 git difftool and mergetool
+add something new in master
